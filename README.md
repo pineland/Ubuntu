@@ -1,4 +1,4 @@
-컴퓨터 환경설정 및 각종 프로그래밍 관련 활용팁은 [Wiki][1]를 참조하시오.  
+개발환경 구축 및 프로그래밍 관련 각종 툴 사용법은 [Wiki][1]를 참조하.  
   
   
 [1]:https://github.com/pineland/pineland.github.com/wiki
